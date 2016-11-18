@@ -1,0 +1,2877 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.8.1",
+    "uniqCompNum": 60,
+    "versionPublish": "3.9.0",
+    "name": "Vision_IMC_COM",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#00adee",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x122-23.png",
+    "noImageResize": "",
+    "publishType": "github",
+    "publishPath": "file:///Users/evidencenxumalo/Documents/Vision%20IMC/Fin%20Sito",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#505050"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#505050"
+            },
+            ".link, .dropdown-item": {
+              "color": "#505050"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#505050",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00adee!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#505050",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-338x128-87.png",
+              "height": 128,
+              "alt": "Digital Agency",
+              "link": "https://www.vision-imc.com",
+              "title": "Vision IMC | Digital Agency",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.vision-imc.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">| Digital Agency</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1h\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-1j\" aria-expanded=\"false\">OUR CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1g\" aria-expanded=\"false\">COMMUNITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#contact\">CONTACT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider-image-1-2000x1251-24.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#who-we-are\" data-toolbar=\"-mbrBtnMove\">WHO WE ARE?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"#what-we-do\" data-toolbar=\"-mbrBtnMove\">WHAT WE DO?</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider-image-2-2000x1251-54.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "<br><br><br><br><br><br><br><br><br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#who-we-are\" data-toolbar=\"-mbrBtnMove\">WHO WE ARE?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"#what-we-do\" data-toolbar=\"-mbrBtnMove\">WHAT WE DO?</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider-image-3-2000x1251-33.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "<br><br><br><br><br><br><br><br><br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#who-we-are\" data-toolbar=\"-mbrBtnMove\">WHO WE ARE?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"#what-we-do\" data-toolbar=\"-mbrBtnMove\">WHAT WE DO?</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/slider-image-4-2000x1251-83.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "<br><br><br><br><br><br><br><br><br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#who-we-are\" data-toolbar=\"-mbrBtnMove\">WHO WE ARE?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"#what-we-do\" data-toolbar=\"-mbrBtnMove\">WHAT WE DO?</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-f",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Subscribe to our Newsletter",
+          "form": {
+            "action": "benxumalo@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Who are we?",
+          "meta": "<span style=\"font-style: normal;\">About Vision Intergrated Communications</span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-d",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/about1-1400x1113-10.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "About Us",
+          "text": "Vision Integrated Marketing Communication |vimc| is a strategic communications specialist and integrated branding agency which develops integrated solutions to complex challenges. Our focus is on the increasing importance of corporate strategy, effective communication and strategic design implementation for differentiation. |vimc| enables market success through key stakeholder engagement. We have the capacity to develop, manage and integrate brand communication strategically, through all channels. Our approach encompasses the full business management process from initial business strategic intent to brand development and portfolio management, right through to the physical creation of the brand at grass roots level. Our name reflects our positioning as a forward-thinking, innovative, integrated marketing communications company determined to carve a name for ourselves in a highly competitive industry.<br><br>We are a level 4 BEE company.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-e",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Why choose us?",
+          "text": "Integrated marketing communications (IMC) is a process for managing customer relationships that drives brand value, primarily through communication efforts. It includes the coordination and integration of all marketing communication tools, avenues and sources within a company into a seamless programme in order to maximise the impact on end users at a minimal cost. This integration affects all firms’ business-to-business, marketing channel, customer-focused and internally directed communications. Several shifts in the advertising and media industry have caused IMC to develop into a primary strategy for marketers:<br><br>• From media advertising to multiple forms of communication.<br><br>• From mass media to more specialised (niche) media, which are centred on specific target audiences.<br><br>• From a manufacturer-dominated market to a retailer-dominated, consumer-controlled market.<br><br>• From general-focus advertising and marketing to data-based marketing.<br><br>• From low agency accountability to greater agency accountability, particularly in advertising.<br><br>• From traditional compensation to performance-based compensation (increased sales or benefits to the company).<br><br>• From limited Internet access to 24/7 Internet availability and access to goods and services.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/background-02-2000x1251-15.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Our Services",
+          "caption": "<p>Vision Integrated Marketing Communication |vimc| operates at various integrated levels and provides for services that operate throughout the full organisational lifecycle, covering marketing and brand communication solutions.|vimc| integrates all four brand environments (Investor, Corporate/B2B, Consumer/Retail and Employee) by looking into brand development issues such as visual identity, brand architecture, scenario planning and brand portfolio management. We also look into issues of brand synergy, leveraging, relevance and clarity.&nbsp;</p>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-c",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/background-02-2000x1251-54.jpg",
+            "bgColor": "#2b86ec",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title1": "Business Strategy",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Facilitated workshops: The purpose of these workshops is to develop strategic intent, mission, vision, values and organisational behaviours.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "gears",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title2": "Marketing Strategy",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Broad strategic development: This encompasses External and Internal Appraisals including a SWOT analysis, the TOWS Strategic Alternatives Matrix, Competitor Analysis, Consumer and Buyer Behaviour, and Political, Economic, Social and Technological (PEST) analysis.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title3": "Brand Strategy",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Brand strategy development: This includes brand research, key objectives, identity, implementation, management and measurement.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title4": "Communication Strategy and Implementation Planning",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Development of communication strategies that involve implementation plans and timelines. ",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Our Clients",
+          "text": "<p>Vision IMC has been involved in integrating communication and design platforms for companies all over South Africa. To learn more about these projects, simply hover over the company logo that you would like to read up on and click on the “More details” link.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/averda-logo-01-01-2000x1413-87-2000x1413-53.png",
+                "image": "@PROJECT_PATH@/assets/images/averda-logo-01-01-2000x1413-87.png",
+                "caption": "<a href=\"averda.html\">More info</a>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/commerce-edge-01-01-2000x1413-89-2000x1413-50.png",
+                "image": "@PROJECT_PATH@/assets/images/commerce-edge-01-01-2000x1413-89.png",
+                "caption": "<a href=\"commerce_edge_south_africa.html\">More info</a>",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/exxon-mobil-logo-01-01-2000x1413-8-2000x1413-40.png",
+                "image": "@PROJECT_PATH@/assets/images/exxon-mobil-logo-01-01-2000x1413-8.png",
+                "caption": "<a href=\"exxon-mobil.html\">More info</a>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/puma-energy-01-01-2000x1413-97-2000x1413-56.png",
+                "image": "@PROJECT_PATH@/assets/images/puma-energy-01-01-2000x1413-97.png",
+                "caption": "<a href=\"puma_energy.html\">More info</a>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cep-logo-01-01-2000x1413-97-2000x1413-8.png",
+                "image": "@PROJECT_PATH@/assets/images/cep-logo-01-01-2000x1413-97.png",
+                "caption": "<a href=\"cep.html\">More info</a>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/castrol-logo-01-01-2000x1413-97-2000x1413-17.png",
+                "image": "@PROJECT_PATH@/assets/images/castrol-logo-01-01-2000x1413-97.png",
+                "caption": "<a href=\"castrol.html\">More info</a>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aus-aid-logo-01-2000x1413-37-2000x1413-89.png",
+                "image": "@PROJECT_PATH@/assets/images/aus-aid-logo-01-2000x1413-37.png",
+                "caption": "<a href=\"aus_aid.html\">More info</a>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nbcrfli-01-01-2000x1413-74-2000x1413-89.png",
+                "image": "@PROJECT_PATH@/assets/images/nbcrfli-01-01-2000x1413-74.png",
+                "caption": "<a href=\"nbcrfli.html\">More info</a>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/futurehealth-logo-01-01-2000x1413-97-2000x1413-24.png",
+                "image": "@PROJECT_PATH@/assets/images/futurehealth-logo-01-01-2000x1413-97.png",
+                "caption": "<a href=\"future-health.html\">More info</a>",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery2-8",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content7-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Image 1</p>",
+          "text2": "<p>Image 2</p>",
+          "text3": "<p>Image 3</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content7-1n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Image 4</p>",
+          "text2": "<p>Image 5</p>",
+          "text3": "<p>image 6</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/background-02-2000x1251-22.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Our Team Serving The Community",
+          "caption": "<p>In July 2014, we joined Monash University in their “Mandela Month Book Drive” to deliver reading books to children at an Early Childhood Development centre in Zandspruit Township.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">On 18 July 2012, we joined employees from the Corridor Empowerment Project, Mercedes Benz and other organisations in providing a facelift to St Anthony’s Education Centre in Reiger Park. We helped paint, garden and tidy up the premises. St.Anthony’s Education Centre accommodates more than 1 000 learners a day from all walks of life, especially the surrounding impoverished communities.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In March 2012, |vimc| donated 20 second-hand Apple computers to HOPE worldwide, an international non-profit organisation whose vision is to bring hope and change the lives of the world’s most poor, sick and suffering. The donated Apple computers were sent to the Diepsloot Kidz Club, the CAFCAR Kidz Club in Itsoseng and to IMPILO, a community-based IT project in Zandspruit. The Kidz Clubs provide numeracy and literacy training, an opportunity to play, as well as a wholesome meal to orphaned and vulnerable children from the ages 2 to 17 on a weekly basis. The computers are being used for administration purposes, as well as to train children in IT, at the Kidz Clubs. The computers donated to IMPILO are also being used to provide underprivileged community members with an opportunity to train in and use technology.&nbsp;</span><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-a",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Contact Us",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-9",
+          "_params": {
+            "googleMap": {
+              "address": "24 Trust Avenue\nWitkoppen Ext. 3\nJohannesburg",
+              "placeId": "ChIJHTovtsd2lR4RXSoZg0GyKNo",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "font-size": "24px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "form1-b",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": true
+          },
+          "title": "Contact Form",
+          "subtitle": "<span style=\"font-style: normal;\"><b>Contact Form</b> | Get in touch</span>",
+          "form": {
+            "action": "benxumalo@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x48-40.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>24 Trust Avenue<br>Witkoppen Ext. 3<br>Johannesburg<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:sean@vision-imc.com\">sean@vision-imc.com</a><br>\nPhone: +011 465 1889<br><br></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"#\">About VIMC</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"#\">What we do?</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"#\">Our Clients</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Vision IMC"
+        }
+      ]
+    },
+    "aus_aid.html": {
+      "settings": {
+        "title": "Aus AID",
+        "meta_descr": "Aus AID"
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-h",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider-image-1-2000x1251-56.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/aus-aid-logo-01-1400x989-18.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Aus AID",
+          "text": "The Australian Government through its aid arm, AusAID, has been running scholarship programmes in various forms in Africa since 1960 and has supported over 5 000 students from Africa to study in Australia since that time. Australia Awards for Africa (AAA) is a central part of the Australian Government's development cooperation programme in Africa.<br><br>Over a period of 18 months, |vimc| worked in close partnership with AusAID to communicate about the AAA programme to countries across Africa. This entailed some of the following activities:<br><br>• Media liaison<br>• Media placement<br>• Advertorials<br>• Press releases<br>• Communications strategy<br>• Newsletters<br>• Interactive CD&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#505050"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#505050"
+            },
+            ".link, .dropdown-item": {
+              "color": "#505050"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#505050",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00adee!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-e",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#505050",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-338x128-87.png",
+              "height": 128,
+              "alt": "Digital Agency",
+              "link": "https://www.vision-imc.com",
+              "title": "Vision IMC | Digital Agency",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.vision-imc.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">| Digital Agency</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1h\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-1j\" aria-expanded=\"false\">OUR CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1g\" aria-expanded=\"false\">COMMUNITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#contact\">CONTACT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-f",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x48-40.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>24 Trust Avenue<br>Witkoppen Ext. 3<br>Johannesburg<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:sean@vision-imc.com\">sean@vision-imc.com</a><br>\nPhone: +011 465 1889<br><br></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"#\">About VIMC</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"#\">What we do?</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"#\">Our Clients</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Vision IMC"
+        }
+      ]
+    },
+    "castrol.html": {
+      "settings": {
+        "title": "Castrol",
+        "meta_descr": "Castrol"
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-i",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider-image-1-2000x1251-56.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/castrol-logo-01-01-1400x989-29.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Castrol",
+          "text": "Castrol develops quality lubricants tailor-made for automotive applications. Since 2010, |vimc| has been working with Castrol’s business-to-business as well as business-to-consumer marketing departments to communicate and market Castrol oils and lubricants for commercial vehicles, as well as industrial on-road and off-road heavy duty trucks in the mining and agriculture sectors. This has been accomplished via some of the following activities:<br><br>• Product selection guide DVD<br>• Corporate video<br>• Trade kits<br>• Brochures<br>• Promotional goods<br>• Brand development<br>• Branded collateral<br>• Advertising<br>• Product launch<br>• The development of an exhibition stand<br>• Brand activations&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://www.castrol.com/en_za/south-africa.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#505050"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#505050"
+            },
+            ".link, .dropdown-item": {
+              "color": "#505050"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#505050",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00adee!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-j",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#505050",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-338x128-87.png",
+              "height": 128,
+              "alt": "Digital Agency",
+              "link": "https://www.vision-imc.com",
+              "title": "Vision IMC | Digital Agency",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.vision-imc.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">| Digital Agency</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1h\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-1j\" aria-expanded=\"false\">OUR CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1g\" aria-expanded=\"false\">COMMUNITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#contact\">CONTACT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x48-40.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>24 Trust Avenue<br>Witkoppen Ext. 3<br>Johannesburg<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:sean@vision-imc.com\">sean@vision-imc.com</a><br>\nPhone: +011 465 1889<br><br></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"#\">About VIMC</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"#\">What we do?</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"#\">Our Clients</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-l",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Vision IMC"
+        }
+      ]
+    },
+    "cep.html": {
+      "settings": {
+        "title": "The Corridor Empowerment Project (CEP)",
+        "meta_descr": "The Corridor Empowerment Project (CEP)"
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-m",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider-image-1-2000x1251-56.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/cep-logo-01-01-1400x989-71.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CEP",
+          "text": "The Corridor Empowerment Project (CEP) was established in 2006 in response to a need for an experienced project management organisation that could manage a programme working towards healthy drivers within the road freight industry. This includes creating awareness about integrated sexual and reproductive health programmes and primary health care, which includes general wellness and well-being.<br><br>Since the establishment of the CEP, |vimc| has been closely involved in communicating and promoting the programmes managed by the CEP through a number of activities, including:<br><br>• Annual reports <br>• Posters<br>• Advertising<br>• Vehicle wraps<br>• Promotional goods<br>• Corporate videos<br>• Website<br>• Music CD&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://coremp.co.za/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#505050"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#505050"
+            },
+            ".link, .dropdown-item": {
+              "color": "#505050"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#505050",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00adee!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-n",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#505050",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-338x128-87.png",
+              "height": 128,
+              "alt": "Digital Agency",
+              "link": "https://www.vision-imc.com",
+              "title": "Vision IMC | Digital Agency",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.vision-imc.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">| Digital Agency</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1h\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-1j\" aria-expanded=\"false\">OUR CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1g\" aria-expanded=\"false\">COMMUNITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#contact\">CONTACT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x48-40.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>24 Trust Avenue<br>Witkoppen Ext. 3<br>Johannesburg<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:sean@vision-imc.com\">sean@vision-imc.com</a><br>\nPhone: +011 465 1889<br><br></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"#\">About VIMC</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"#\">What we do?</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"#\">Our Clients</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-p",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Vision IMC"
+        }
+      ]
+    },
+    "future-health.html": {
+      "settings": {
+        "title": "Future Health",
+        "meta_descr": "Future Health"
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-q",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider-image-1-2000x1251-56.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/futurehealth-logo-01-01-1400x989-40.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Future Health",
+          "text": "Degenerative diseases make up 90% of all diseases now treated by conventional mainstream medicine. Future Health™ nutraceutical supplements are scientifically formulated to better meet the needs of a population afflicted with steadily increasing rates of degenerative disease.<br><br>In 2011, |vimc| helped to reposition Future Health as the new authority in science, healthcare and disease prevention and to revamp its branding to reflect a brand that is scientifically formulated to promote healthy ageing. Together with the development of an innovative communication strategy, this was achieved using some of the following tools: z<br><br>• Sales Presenter<br>• Future Health leaflet<br>• Probiotics leaflet<br>• Branded collateral<br>• Website&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#505050"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#505050"
+            },
+            ".link, .dropdown-item": {
+              "color": "#505050"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#505050",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00adee!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-r",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#505050",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-338x128-87.png",
+              "height": 128,
+              "alt": "Digital Agency",
+              "link": "https://www.vision-imc.com",
+              "title": "Vision IMC | Digital Agency",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.vision-imc.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">| Digital Agency</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1h\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-1j\" aria-expanded=\"false\">OUR CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1g\" aria-expanded=\"false\">COMMUNITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#contact\">CONTACT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x48-40.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>24 Trust Avenue<br>Witkoppen Ext. 3<br>Johannesburg<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:sean@vision-imc.com\">sean@vision-imc.com</a><br>\nPhone: +011 465 1889<br><br></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"#\">About VIMC</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"#\">What we do?</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"#\">Our Clients</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-t",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Vision IMC"
+        }
+      ]
+    },
+    "nbcrfli.html": {
+      "settings": {
+        "title": "NBCRFLI",
+        "meta_descr": "NBCRFLI"
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-u",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider-image-1-2000x1251-56.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/nbcrfli-01-01-1400x989-11.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "NBCRFLI",
+          "text": "The National Bargaining Council for the Road Freight and Logistics Industry (NBCRFLI) is a service-centered organisation whose basic core function is to manage conditions of employment between industry employers and employees within the Road Freight and Logistics Industry.<br><br>Since 2011, |vimc| has worked side-by-side with the Council’s marketing and communications team to create awareness of Council, its services and the value it offers through contributing to the stability of the Road Freight and Logistics Industry. We have achieved this through a number of different communication tools, including:<br><br>• Communications strategy<br>• Adverts &amp; advertorials<br>• Emailers<br>• Press releases<br>• Media management<br>• Brand management<br>• Newsletters<br>• Website management<br>• Research<br>• Annual reports<br>• Speeches<br>• Branded collateral<br>• Promotional items<br>• Internal communications&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#505050"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#505050"
+            },
+            ".link, .dropdown-item": {
+              "color": "#505050"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#505050",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00adee!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-v",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#505050",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-338x128-87.png",
+              "height": 128,
+              "alt": "Digital Agency",
+              "link": "https://www.vision-imc.com",
+              "title": "Vision IMC | Digital Agency",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.vision-imc.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">| Digital Agency</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1h\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-1j\" aria-expanded=\"false\">OUR CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1g\" aria-expanded=\"false\">COMMUNITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#contact\">CONTACT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x48-40.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>24 Trust Avenue<br>Witkoppen Ext. 3<br>Johannesburg<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:sean@vision-imc.com\">sean@vision-imc.com</a><br>\nPhone: +011 465 1889<br><br></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"#\">About VIMC</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"#\">What we do?</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"#\">Our Clients</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-x",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Vision IMC"
+        }
+      ]
+    },
+    "puma_energy.html": {
+      "settings": {
+        "title": "PUMA Energy",
+        "meta_descr": "PUMA Energy"
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-y",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider-image-1-2000x1251-56.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/puma-energy-01-01-1400x989-45.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "PUMA Energy",
+          "text": "Puma Energy distributes fuel to business and retail customers, including fuel oil, gasoline, diesel, jet, LPG, aviation fuel, bitumen and lubricants. It also owns and operates a number of terminals and storage facilities across five continents, which it supplies with a number of high quality oil products.<br><br>In collaboration with Puma Energy’s marketing team, |vimc| has created a number of marketing and communication items to raise the awareness of Puma Energy within the South African and African markets, including:<br><br>• Brochures<br>• Banners<br>• Advertising<br>• Emailers<br>• Vehicle wraps<br>• Advertorials<br>• Newsletters&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#505050"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#505050"
+            },
+            ".link, .dropdown-item": {
+              "color": "#505050"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#505050",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00adee!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-z",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#505050",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-338x128-87.png",
+              "height": 128,
+              "alt": "Digital Agency",
+              "link": "https://www.vision-imc.com",
+              "title": "Vision IMC | Digital Agency",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.vision-imc.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">| Digital Agency</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1h\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-1j\" aria-expanded=\"false\">OUR CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1g\" aria-expanded=\"false\">COMMUNITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#contact\">CONTACT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x48-40.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>24 Trust Avenue<br>Witkoppen Ext. 3<br>Johannesburg<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:sean@vision-imc.com\">sean@vision-imc.com</a><br>\nPhone: +011 465 1889<br><br></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"#\">About VIMC</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"#\">What we do?</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"#\">Our Clients</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-11",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Vision IMC"
+        }
+      ]
+    },
+    "exxon-mobil.html": {
+      "settings": {
+        "title": "Exxon Mobil",
+        "meta_descr": "Exxon Mobil"
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-12",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider-image-1-2000x1251-56.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/exxon-mobil-logo-01-01-1400x989-90.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Exxon Mobil",
+          "text": "ExxonMobil has been present in Africa for over 100 years and has become one of the leading fuel and lubricants retailers in Africa. The |vimc| team has been working closely with ExxonMobil to continuously create branded goods and to effectively execute the delivery of various printed materials.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#505050"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#505050"
+            },
+            ".link, .dropdown-item": {
+              "color": "#505050"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#505050",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00adee!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-13",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#505050",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-338x128-87.png",
+              "height": 128,
+              "alt": "Digital Agency",
+              "link": "https://www.vision-imc.com",
+              "title": "Vision IMC | Digital Agency",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.vision-imc.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">| Digital Agency</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1h\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-1j\" aria-expanded=\"false\">OUR CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1g\" aria-expanded=\"false\">COMMUNITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#contact\">CONTACT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-14",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x48-40.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>24 Trust Avenue<br>Witkoppen Ext. 3<br>Johannesburg<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:sean@vision-imc.com\">sean@vision-imc.com</a><br>\nPhone: +011 465 1889<br><br></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"#\">About VIMC</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"#\">What we do?</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"#\">Our Clients</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-15",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Vision IMC"
+        }
+      ]
+    },
+    "commerce_edge_south_africa.html": {
+      "settings": {
+        "title": "Commerce Edge South Africa",
+        "meta_descr": "Commerce Edge South Africa"
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-16",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider-image-1-2000x1251-56.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/commerce-edge-01-01-1400x989-15.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Commerce Edge South Africa",
+          "text": "Commerce Edge South Africa provides education and training to Supply Chain professionals through a number of channels, thereby providing them with a commercial edge within the workplace. Commerce Edge also runs Smart Procurement World (South Africa’s definitive procurement and supply chain event) in both Gauteng and the Western Cape.<br><br>• Branding<br>• Corporate Identity Manual<br>• Design of:<br>o Adverts<br>o Brochures<br>o Certificates<br>o Folders<br>o Logos<br>• Conference branding including:<br>o Activations<br>o Booklets<br>o Brochures<br>o Manuals<br>o Presentations<br>o Signage<br>o Stand design<br>• Website design&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#505050"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#505050"
+            },
+            ".link, .dropdown-item": {
+              "color": "#505050"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#505050",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00adee!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-17",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#505050",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-338x128-87.png",
+              "height": 128,
+              "alt": "Digital Agency",
+              "link": "https://www.vision-imc.com",
+              "title": "Vision IMC | Digital Agency",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.vision-imc.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">| Digital Agency</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1h\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-1j\" aria-expanded=\"false\">OUR CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1g\" aria-expanded=\"false\">COMMUNITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#contact\">CONTACT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-18",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x48-40.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>24 Trust Avenue<br>Witkoppen Ext. 3<br>Johannesburg<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:sean@vision-imc.com\">sean@vision-imc.com</a><br>\nPhone: +011 465 1889<br><br></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"#\">About VIMC</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"#\">What we do?</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"#\">Our Clients</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-19",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Vision IMC"
+        }
+      ]
+    },
+    "averda.html": {
+      "settings": {
+        "title": "Averda",
+        "meta_descr": "Averda"
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider-image-1-2000x1251-56.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/averda-logo-01-01-1400x989-73.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Averda",
+          "text": "From homes and offices, to streets and industrial areas, Averda collects all kinds of waste ranging from general all the way to hazardous. Backed with an efficient team, the right technology and a specialised fleet of vehicles, they ensure that the areas they service are absolutely spotless.<br><br>|vimc| creates various types of marketing material for Averda and implements them in a holistic and integrated manner.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#505050"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#505050"
+            },
+            ".link, .dropdown-item": {
+              "color": "#505050"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#505050",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00adee!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1b",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#505050",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-338x128-87.png",
+              "height": 128,
+              "alt": "Digital Agency",
+              "link": "https://www.vision-imc.com",
+              "title": "Vision IMC | Digital Agency",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.vision-imc.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">| Digital Agency</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1h\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-1j\" aria-expanded=\"false\">OUR CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1g\" aria-expanded=\"false\">COMMUNITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#contact\">CONTACT US</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x48-40.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>24 Trust Avenue<br>Witkoppen Ext. 3<br>Johannesburg<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:sean@vision-imc.com\">sean@vision-imc.com</a><br>\nPhone: +011 465 1889<br><br></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"#\">About VIMC</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"#\">What we do?</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"#\">Our Clients</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Vision IMC"
+        }
+      ]
+    }
+  }
+}
